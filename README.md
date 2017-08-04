@@ -1,2 +1,2 @@
 # tcl-practise
-## This repository is for tcl study and collection
+## This repository is for tcl study and usage collection
